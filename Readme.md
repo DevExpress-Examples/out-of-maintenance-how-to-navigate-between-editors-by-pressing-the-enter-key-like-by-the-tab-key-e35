@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to navigate between editors by pressing the Enter key like by the Tab key
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3558/)**
+<!-- run online end -->
 
 
 <p>This example illustrates how to emulate  the Tab key using the Enter key. To accomplish this task, execute the following steps:</p><p><br />
